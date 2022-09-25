@@ -1,2 +1,3 @@
 # FifaDB
-Repo for bug reports and feature requests for fifadb.net. 
+FifaDB Repo for bug reports and feature requests. 
+[fifadb.net](https://fifadb.net)
